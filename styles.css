@@ -1,0 +1,24 @@
+body {
+    color: whitesmoke;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(0, 255, 42);
+    padding: 15px;
+    font-size: 27px;
+    color: yellow;
+}
+
+section {
+    background: rgb(69, 7, 240);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chama-text{
+    margin-right: 5%;
+}
